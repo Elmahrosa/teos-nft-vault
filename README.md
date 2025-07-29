@@ -1,9 +1,9 @@
 # 🏺 Teos NFT Vault — Sovereign Minting Platform
 
-Welcome to the private minting vault for the **Teos Dynasty NFT Collection** — Egypt’s on-chain cultural renaissance. Hosted at [nft.teosegypt.com](https://nft.teosegypt.com), this repo mints 100 hand-curated Pharaoh NFTs using Solana smart contracts, contributor-gated access, and audio narration for heritage preservation.
+Welcome to the private minting vault for the **Teos Dynasty NFT Collection** — Egypt’s blockchain-powered cultural revival. Hosted at [nft.teosegypt.com](https://nft.teosegypt.com), this platform mints 1,000 Pharaoh NFTs using Solana smart contracts, contributor gating, and narrated metadata.
 
-> ⛔ **Private Repo:** Only verified $TEOS contributors may access mint logic and dashboard.
+> 🔒 **Private Vault:** Only verified $TEOS contributors may mint or preview NFTs. Repository will become public after 1,000 mints.
 
 ---
 
-## 🛠 Repo Structure
+## 🗂 Repo Structure
