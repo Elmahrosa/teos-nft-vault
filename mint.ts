@@ -1,0 +1,1 @@
+console.log("🚀 Minting NFT to verified contributor wallet...");
