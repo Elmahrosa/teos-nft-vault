@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.App {
+    text-align: center;
+}
+
+.hero {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.mint-section {
+    margin: 20px;
+}
+
+.about, .vault {
+    margin: 20px;
+}
